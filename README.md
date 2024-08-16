@@ -1,4 +1,8 @@
-## Hi there 👋
+### 👋 Hey there!
+ I'm Jonas Claes, and I'm deeply passionate about creating open-source software that makes a difference. Over the years, I've dedicated countless hours to not only writing code, but also aiding the community, mentoring fellow developers, and shaping tools that align with causes close to my heart.
+
+### 🛠 What I'm Working On:
+I am currently leading and collaborating on several innovative open-source projects. These projects aim not only to bring value to developers and the broader community, but also to resonate with broader global issues, emphasizing both utility and empathy.
 
 <!--
 **jonasclaes/jonasclaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://raw.githubusercontent.com/jonasclaes/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/jonasclaes/github-stats/master/generated/languages.svg#gh-dark-mode-only)
